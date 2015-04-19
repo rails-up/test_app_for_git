@@ -2,7 +2,7 @@
 
 This is a test repo for understanding our git workflow. Add your name on the list below using our workflow. It means that you read wiki and know how to commit correctly.
 
-* Nikita Melnikov
+* Nikita Melnikov first commit
 * Nik Melnikov once again using fork & pull request model
 * Vishal Deepak was here.
 
