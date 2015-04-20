@@ -6,6 +6,7 @@ This is a test repo for understanding our git workflow. Add your name on the lis
 * Nik Melnikov once again using fork & pull request model
 * Vishal Deepak was here.
 * Dimitris Panouris
+* Ashlaya
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
