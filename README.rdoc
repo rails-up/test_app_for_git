@@ -7,6 +7,7 @@ This is a test repo for understanding our git workflow. Add your name on the lis
 * Vishal Deepak was here.
 * Dimitris Panouris
 * Ashlaya
+* Zhenya
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
